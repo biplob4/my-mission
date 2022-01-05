@@ -5,10 +5,8 @@ body{
    
 }
 section{
-    margin-bottom: 30px;
     width: 80%;
     margin: auto;
-    padding: 10px 0px
 }
 .mission {
     display: flex;
@@ -86,7 +84,7 @@ span {
 }
     
 .gosls-item p {
-    color: #221c1c;
+    color: #524848;
     font-size: 18px;
     font-family: sans-serif;
 } 
@@ -95,4 +93,72 @@ span {
 }
 .box-one{
     background: #f8edff;
+}
+.project-image img {
+    width: 35%;
+    float: left;
+    margin-right: 83px;
+    position: relative;
+}
+.project-script {
+    width: 91%;
+    padding: 20px 123px;
+}
+
+.project-script h1 {
+    font-size: 40px;
+    font-family: arial;
+}
+
+.project-script p {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #524848;
+}
+#middle{
+    margin-top: 30px;
+    display: table;
+}
+.our-project {
+    margin-top: 90px;
+}
+
+.background-image{
+    position: relative;
 }   
+
+.background-image img {
+    width: 20%;
+    margin-left: -104px;
+    position: absolute;
+    margin-top: 61px;
+}
+.Community-image img {
+    width: 80%;
+    margin-left: 106px;
+}
+
+.Community {
+    display: flex;
+    margin-top: 100px;
+}
+
+.Community-script p {
+    color: #524848;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.Community-script h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.Community-script {
+    margin-top: 31px;
+}
+.Community-bg-image img {
+    width: 13%;
+    position: absolute;
+    margin-left: 395px;
+    margin-top: 289px;
+}
